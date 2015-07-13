@@ -131,7 +131,7 @@
                         <img src="http://www.olbc.it/wp-content/themes/skt-black/images/icon-web-design.png">
                         <h2>Mi&nbsp;&nbsp;chiamo&nbsp;&nbsp;Eva</h2>
                         <p>Un musical inedito che ricerca e sperimenta il felice connubio fra musica, poesia, arte e videoarte per narrare, in chiave moderna, la storia di Adamo ed Eva, tentati e poi redenti da un ritrovato spirito critico e di libero arbitrio.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-                        <a href="http://www.olbc.it/gallery/index.php?&MICHIAMOEVA" class="read-more">Vai alle foto</a>
+                        <a href="http://www.olbc.it/gallery/index.php?&EVA" class="read-more">Vai alle foto</a>
                     </div>
 
                     <div id="services-box">
