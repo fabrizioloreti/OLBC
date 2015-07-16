@@ -286,7 +286,12 @@
                         Parte una nuova sfida, un nuovo viaggio.
                         <br/><br/>
                         La compagnia si prefigge di allestire il musical di Broadway “Jekyll&Hyde”, con musiche originali di Frank Wildhorn e liriche di Leslie Bricusse. 25 elementi stanno lavorando da oltre un anno alla messa in scena, (regia di Silvia Metelli, impianto drammaturgico a cura di Daria Virginia Massi, arrangiamenti musicali di Franco Grandoni). Nel riadattamento operato dalla OLBC, la versione in questione è con testi recitati, tradotti in italiano e i brani cantati dal vivo in lingua originale con sopratitoli in italiano. 
-                    </div>                     
+                    </div>
+                    <div style="text-align: center;margin-top: 10px;color: white;">
+                        <span style="font-size: 20px;">Jekyll & Hyde Il Musical - PROMO</span>
+                        <br/>
+                        <object data="https://www.youtube.com/v/XRKAgKWWHbw" width="560" height="315"></object>
+                    </div>                   
                 </div><!-- middle-align -->
 
                 <div class="clear"></div>
